@@ -39,4 +39,4 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 
 ## 100DaysOfCode
 
-<a href="https://paeshi.github.io/day1-floating-particles/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01-ff0027?style=for-the-badge&logo=day" height=30 width=79/>
+<a href="https://paeshi.github.io/day1-floating-particles/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01-3ea0c7?style=for-the-badge&logo=day" height=30 width=79/>
