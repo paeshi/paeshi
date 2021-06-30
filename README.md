@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hi, I'm Steve
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Steve
 
 ![github](https://user-images.githubusercontent.com/73855474/118028209-d21f4980-b330-11eb-86f8-c9cf7cd83989.png)
 
@@ -13,6 +13,7 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 <a href="https://paeshi.github.io/day1-floating-particles/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01: Particles-3ea0c7?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day2-mousetrails/"><img alt="Day 2" src="https://img.shields.io/badge/-Day 02: Mousetrails-3e67c7?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day3-slider/"><img alt="Day 3" src="https://img.shields.io/badge/-Day 03: SwiperSlider-5e3ec7?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day04-reuseableReact/"><img alt="Day 4" src="https://img.shields.io/badge/-Day 04: ReusableReact-903ec7?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=tokyonight)
 
@@ -40,8 +41,3 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/></p>
-
-
-
-
-
