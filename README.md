@@ -12,9 +12,10 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 
 <a href="https://paeshi.github.io/day1-floating-particles/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01: Particles-3ea0c7?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day2-mousetrails/"><img alt="Day 2" src="https://img.shields.io/badge/-Day 02: Mousetrails-3e67c7?style=for-the-badge&logo=day" height=30 width=150/>
-<a href="https://paeshi.github.io/day3-slider/"><img alt="Day 3" src="https://img.shields.io/badge/-Day 03: SwiperSlider-5e3ec7?style=for-the-badge&logo=day" height=30 width=150/>
-<a href="https://reusablereact.netlify.app/"><img alt="Day 4" src="https://img.shields.io/badge/-Day 04: ReusableReact-903ec7?style=for-the-badge&logo=day" height=30 width=150/>
-<a href="https://paeshi.github.io/day05_jokeAPI/"><img alt="Day 5" src="https://img.shields.io/badge/-Day 05: ProgrammingHumor-c73ec0?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day3-slider/"><img alt="Day 3" src="https://img.shields.io/badge/-Day 03: Swiper Slider-5e3ec7?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://reusablereact.netlify.app/"><img alt="Day 4" src="https://img.shields.io/badge/-Day 04: Reusable React-903ec7?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day05_jokeAPI/"><img alt="Day 5" src="https://img.shields.io/badge/-Day 05: Programming Humor-c73ec0?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://react-parallax1.netlify.app"><img alt="Day 6" src="https://img.shields.io/badge/-Day 06: React Parallax1-c73e8e?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=tokyonight)
 
