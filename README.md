@@ -8,7 +8,7 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stevepae/)
 
-## <span style="color:gold">100DaysOfCode - Started Jun 27, 2021 </span>
+## 100DaysOfCode - Started Jun 27, 2021
 
 <a href="https://paeshi.github.io/day1-floating-particles/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01: Particles-3ea0c7?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day2-mousetrails/"><img alt="Day 2" src="https://img.shields.io/badge/-Day 02: Mousetrails-2d718c?style=for-the-badge&logo=day" height=30 width=150/>
