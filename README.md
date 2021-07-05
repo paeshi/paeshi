@@ -19,6 +19,8 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 <a href="https://paeshi.github.io/day07_animated_icons/"><img alt="Day 7" src="https://img.shields.io/badge/-Day 07: Animated Icons-421bb5?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/Day08_css_scroll_effect/
 "><img alt="Day 8" src="https://img.shields.io/badge/-Day 08: CSS Scroll Effect-681bb5?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day09_granim/
+"><img alt="Day 9" src="https://img.shields.io/badge/-Day 09: Granim Gradients-3b0770?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=tokyonight)
 
