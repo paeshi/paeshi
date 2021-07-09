@@ -10,25 +10,25 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 
 ## 100DaysOfCode - Started Jun 27, 2021
 
-<a href="https://paeshi.github.io/day1-floating-particles/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01: Particles-c9c34d?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day1-floating-particles/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01: Particles-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day2-mousetrails/"><img alt="Day 2" src="https://img.shields.io/badge/-Day 02: Mousetrails-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
-<a href="https://paeshi.github.io/day3-slider/"><img alt="Day 3" src="https://img.shields.io/badge/-Day 03: Swiper Slider-c9c34d?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day3-slider/"><img alt="Day 3" src="https://img.shields.io/badge/-Day 03: Swiper Slider-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://reusablereact.netlify.app/"><img alt="Day 4" src="https://img.shields.io/badge/-Day 04: Reusable React-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
-<a href="https://paeshi.github.io/day05_jokeAPI/"><img alt="Day 5" src="https://img.shields.io/badge/-Day 05: Programming Humor-c9c34d?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day05_jokeAPI/"><img alt="Day 5" src="https://img.shields.io/badge/-Day 05: Programming Humor-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://react-parallax1.netlify.app"><img alt="Day 6" src="https://img.shields.io/badge/-Day 06: React Parallax1-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
-<a href="https://paeshi.github.io/day07_animated_icons/"><img alt="Day 7" src="https://img.shields.io/badge/-Day 07: Animated Icons-c9c34d?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day07_animated_icons/"><img alt="Day 7" src="https://img.shields.io/badge/-Day 07: Animated Icons-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/Day08_css_scroll_effect/
 "><img alt="Day 8" src="https://img.shields.io/badge/-Day 08: CSS Scroll Effect-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day09_granim/
-"><img alt="Day 9" src="https://img.shields.io/badge/-Day 09: Granim Gradients-c9c34d?style=for-the-badge&logo=day" height=30 width=150/>
+"><img alt="Day 9" src="https://img.shields.io/badge/-Day 09: Granim Gradients-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://day10-nextjs-blog.vercel.app/
 "><img alt="Day 10" src="https://img.shields.io/badge/-Day 10: Nextjs Blog-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day11_color_flipper1/
-"><img alt="Day 11" src="https://img.shields.io/badge/-Day 11: Color Flipper1-c9c34d?style=for-the-badge&logo=day" height=30 width=150/>
+"><img alt="Day 11" src="https://img.shields.io/badge/-Day 11: Color Flipper1-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day12_canvas_draw/
 "><img alt="Day 12" src="https://img.shields.io/badge/-Day 12: Canvas Draw-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day13_speech_synthesis/
-"><img alt="Day 13" src="https://img.shields.io/badge/-Day 13: Speech Synthesis-c9c34d?style=for-the-badge&logo=day" height=30 width=150/>
+"><img alt="Day 13" src="https://img.shields.io/badge/-Day 13: Speech Synthesis-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=tokyonight)
 
