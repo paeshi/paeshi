@@ -30,11 +30,11 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 <a href="https://paeshi.github.io/day13_speech_synthesis/
 "><img alt="Day 13" src="https://img.shields.io/badge/-Day 13: Speech Synthesis-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
-![Paeshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=paeshi&show_icons=true&theme=tokyonight)
+![Paeshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=paeshi&show_icons=true&theme=dark)
 
-## Tools I Use
+## Tools
 
 <p><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
