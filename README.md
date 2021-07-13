@@ -35,6 +35,8 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 15" src="https://img.shields.io/badge/-Day 15: Javascript Clock-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day16_rgb_generator/
 "><img alt="Day 16" src="https://img.shields.io/badge/-Day 16: RGB Generator-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://replit.com/@stevepae/Higher-Order-Functions#index.js
+"><img alt="Day 17" src="https://img.shields.io/badge/-Day 17: Higher Order Functions-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
