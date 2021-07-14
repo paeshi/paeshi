@@ -38,7 +38,7 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 <a href="https://replit.com/@stevepae/Higher-Order-Functions#index.js
 "><img alt="Day 17" src="https://img.shields.io/badge/-Day 17: Higher Order Functions-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://replit.com/@stevepae/Regex#index.js
-"><img alt="Day 18" src="https://img.shields.io/badge/-Day 18: Regex-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+"><img alt="Day 18" src="https://img.shields.io/badge/-Day 18: Regular Expressions-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
