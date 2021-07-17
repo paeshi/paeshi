@@ -44,7 +44,7 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 <a href="https://paeshi.github.io/day20_svg_background/
 "><img alt="Day 20" src="https://img.shields.io/badge/-Day 20: SVG Wave-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://replit.com/@stevepae/Day21AsynchronousJavascript#index.js
-"><img alt="Day 21" src="https://img.shields.io/badge/-Day 21: Asynchronous Javascript-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+"><img alt="Day 21" src="https://img.shields.io/badge/-Day 21: Async/Await-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
