@@ -45,6 +45,20 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 20" src="https://img.shields.io/badge/-Day 20: SVG Wave-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://replit.com/@stevepae/Day21AsynchronousJavascript#index.js
 "><img alt="Day 21" src="https://img.shields.io/badge/-Day 21: Async/Await-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://codesandbox.io/s/vanilla-n3bbn
+"><img alt="Day 22" src="https://img.shields.io/badge/-Day 22: Grid Practice-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://codesandbox.io/s/loving-breeze-fp82c?file=/src/index.js
+"><img alt="Day 23" src="https://img.shields.io/badge/-Day 23: Glassmorphism-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+<a href=" https://paeshi.github.io/day24_bootstrap_components/
+"><img alt="Day 24" src="https://img.shields.io/badge/-Day 24: Bootstrap -2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day25_ripple_effect/
+"><img alt="Day 25" src="https://img.shields.io/badge/-Day 25: Ripple Effect-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day26_profile_card/
+"><img alt="Day 26" src="https://img.shields.io/badge/-Day 26: Profile Card-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day27_w3_schools/
+"><img alt="Day 27" src="https://img.shields.io/badge/-Day 27: W3 Schools-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day28_mouseover/
+"><img alt="Day 28" src="https://img.shields.io/badge/-Day 28: Mouseover-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
