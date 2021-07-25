@@ -49,7 +49,7 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 22" src="https://img.shields.io/badge/-Day 22: Grid Practice-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://codesandbox.io/s/loving-breeze-fp82c?file=/src/index.js
 "><img alt="Day 23" src="https://img.shields.io/badge/-Day 23: Glassmorphism-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
-<a href=" https://paeshi.github.io/day24_bootstrap_components/
+<a href="https://paeshi.github.io/day24_bootstrap_components/
 "><img alt="Day 24" src="https://img.shields.io/badge/-Day 24: Bootstrap-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day25_ripple_effect/
 "><img alt="Day 25" src="https://img.shields.io/badge/-Day 25: Ripple Effect-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
