@@ -59,6 +59,8 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 27" src="https://img.shields.io/badge/-Day 27: W3 Schools-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day28_mouseover/
 "><img alt="Day 28" src="https://img.shields.io/badge/-Day 28: Mouseover-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://react-scrolltrigger-example.netlify.app/
+"><img alt="Day 29" src="https://img.shields.io/badge/-Day 29: React Scrolltrigger-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
