@@ -67,6 +67,8 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 31" src="https://img.shields.io/badge/-Day 31: Counter App-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://expense-tracker-100-react.netlify.app/
 "><img alt="Day 32" src="https://img.shields.io/badge/-Day 32: React Expense Tracker-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day33_image_filters/
+"><img alt="Day 33" src="https://img.shields.io/badge/-Day 33: Image Filters-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
