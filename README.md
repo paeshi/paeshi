@@ -71,6 +71,10 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 33" src="https://img.shields.io/badge/-Day 33: Image Filters-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://replit.com/@stevepae/Regex#index.js
 "><img alt="Day 34" src="https://img.shields.io/badge/-Day 34: Regex Cont'd-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="javascript:alert('Waiting to be deployed')
+"><img alt="Day 35" src="https://img.shields.io/badge/-Day 35: Gatsby Site-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="javascript:alert('Waiting to be deployed')
+"><img alt="Day 36" src="https://img.shields.io/badge/-Day 36: Music Quotes API-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
