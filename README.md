@@ -77,6 +77,8 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 36" src="https://img.shields.io/badge/-Day 36: Music Quotes API-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://cheeseburger-svg.netlify.app/
 "><img alt="Day 37" src="https://img.shields.io/badge/-Day 37: Creating SVGs-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day38_styling_form/
+"><img alt="Day 38" src="https://img.shields.io/badge/-Day 38: Styling A Form-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
