@@ -79,6 +79,10 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 37" src="https://img.shields.io/badge/-Day 37: Creating SVGs-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day38_styling_form/
 "><img alt="Day 38" src="https://img.shields.io/badge/-Day 38: Styling A Form-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://replit.com/@stevepae/Data-Structures-and-Algorithms
+"><img alt="Day 39" src="https://img.shields.io/badge/-Day 39: DS and Algorithms-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day40_threejs/
+"><img alt="Day 40" src="https://img.shields.io/badge/-Day 40: Three.js-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
