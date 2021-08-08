@@ -83,6 +83,10 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 39" src="https://img.shields.io/badge/-Day 39: DS and Algorithms-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day40_threejs/
 "><img alt="Day 40" src="https://img.shields.io/badge/-Day 40: Three.js-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="paeshi-react-pokemon.netlify.app
+"><img alt="Day 41" src="https://img.shields.io/badge/-Day 41: React Axios-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi-react-giphy.netlify.app/
+"><img alt="Day 42" src="https://img.shields.io/badge/-Day 42: React Giphy-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
