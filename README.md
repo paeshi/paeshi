@@ -89,6 +89,10 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 42" src="https://img.shields.io/badge/-Day 42: React Giphy-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day43_neumorphic_login/
 "><img alt="Day 43" src="https://img.shields.io/badge/-Day 43: Neumorphic Login-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi-react-search.netlify.app/
+"><img alt="Day 44" src="https://img.shields.io/badge/-Day 44: React Search-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://replit.com/@stevepae/JavascriptProblems#index.js
+"><img alt="Day 45" src="https://img.shields.io/badge/-Day 45: Javascript Problems-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
