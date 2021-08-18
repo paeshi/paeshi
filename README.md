@@ -105,7 +105,7 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 50" src="https://img.shields.io/badge/-Day 50: React Styled Components-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day51_jquery_clone/
 "><img alt="Day 51" src="https://img.shields.io/badge/-Day 51: jQuery in JS-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
-<a href="https://paeshi.github.io/day51_jquery_clone/
+<a href="https://paeshi-react-quote-generator.netlify.app/
 "><img alt="Day 52" src="https://img.shields.io/badge/-Day 52: React Quote Generator-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
