@@ -107,6 +107,8 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 51" src="https://img.shields.io/badge/-Day 51: jQuery in JS-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi-react-quotes.netlify.app/
 "><img alt="Day 52" src="https://img.shields.io/badge/-Day 52: React Quote Generator-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi-react-accordion-nba.netlify.app/
+"><img alt="Day 53" src="https://img.shields.io/badge/-Day 53: React Accordion-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
