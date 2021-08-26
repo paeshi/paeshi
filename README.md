@@ -117,6 +117,12 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 56" src="https://img.shields.io/badge/-Day 56: React Router-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi-react-canvas.netlify.app/
 "><img alt="Day 57" src="https://img.shields.io/badge/-Day 57: React Canvas-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi-react-hook-form.netlify.app/
+"><img alt="Day 58" src="https://img.shields.io/badge/-Day 57: React Hook Form-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi-functional-vs-class-components.netlify.app/
+"><img alt="Day 59" src="https://img.shields.io/badge/-Day 59: React Functional/Class Components-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi-react-testing.netlify.app/
+"><img alt="Day 60" src="https://img.shields.io/badge/-Day 60: React Testing Library-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
