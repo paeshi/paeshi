@@ -123,6 +123,10 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 59" src="https://img.shields.io/badge/-Day 59: Functional vs Class-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi-react-testing.netlify.app/
 "><img alt="Day 60" src="https://img.shields.io/badge/-Day 60: React Testing Library-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://replit.com/@stevepae/object-oriented-javascript#README.md
+"><img alt="Day 61" src="https://img.shields.io/badge/-Day 61: Object Oriented JS-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day62_google_fonts_effects/
+"><img alt="Day 62" src="https://img.shields.io/badge/-Day 62: Google Fonts FX-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
