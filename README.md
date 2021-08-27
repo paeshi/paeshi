@@ -124,7 +124,7 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 <a href="https://paeshi-react-testing.netlify.app/
 "><img alt="Day 60" src="https://img.shields.io/badge/-Day 60: React Testing Library-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://replit.com/@stevepae/object-oriented-javascript#README.md
-"><img alt="Day 61" src="https://img.shields.io/badge/-Day 61: Object Oriented JS-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+"><img alt="Day 61" src="https://img.shields.io/badge/-Day 61: Object Oriented JS-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day62_google_fonts_effects/
 "><img alt="Day 62" src="https://img.shields.io/badge/-Day 62: Google Fonts FX-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 
