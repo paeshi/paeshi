@@ -118,7 +118,7 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 <a href="https://paeshi-react-canvas.netlify.app/
 "><img alt="Day 57" src="https://img.shields.io/badge/-Day 57: React Canvas-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi-react-hook-form.netlify.app/
-"><img alt="Day 58" src="https://img.shields.io/badge/-Day 57: React Hook Form-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+"><img alt="Day 58" src="https://img.shields.io/badge/-Day 58: React Hook Form-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi-functional-vs-class-components.netlify.app/
 "><img alt="Day 59" src="https://img.shields.io/badge/-Day 59: Functional vs Class-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi-react-testing.netlify.app/
@@ -127,6 +127,8 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 61" src="https://img.shields.io/badge/-Day 61: Object Oriented JS-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day62_google_fonts_effects/
 "><img alt="Day 62" src="https://img.shields.io/badge/-Day 62: Google Fonts FX-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day63_3D_background/
+"><img alt="Day 63" src="https://img.shields.io/badge/-Day 63: 3D Background-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi-react-localstorage.netlify.app/
 "><img alt="Day 64" src="https://img.shields.io/badge/-Day 64: React Localstorage-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi-react-starwars.netlify.app/
