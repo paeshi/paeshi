@@ -133,6 +133,8 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 64" src="https://img.shields.io/badge/-Day 64: React Localstorage-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi-react-starwars.netlify.app/
 "><img alt="Day 65" src="https://img.shields.io/badge/-Day 65: Starwars API-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://codesandbox.io/s/github/paeshi/day66_react_redux/tree/main/
+"><img alt="Day 66" src="https://img.shields.io/badge/-Day 66: React Redux-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
