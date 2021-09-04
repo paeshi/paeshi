@@ -139,6 +139,8 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 67" src="https://img.shields.io/badge/-Day 67: Redux 2-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi-react-redux-cart.netlify.app/main/
 "><img alt="Day 68" src="https://img.shields.io/badge/-Day 68: Redux Thunk-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi-redux-class-components.netlify.app/
+"><img alt="Day 69" src="https://img.shields.io/badge/-Day 69: Redux Class Components-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
