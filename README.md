@@ -143,6 +143,10 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 69" src="https://img.shields.io/badge/-Day 69: Redux Class Components-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi-burger-builder.netlify.app/
 "><img alt="Day 70" src="https://img.shields.io/badge/-Day 70: Sandwich Builder-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi-react-navbar.netlify.app/
+"><img alt="Day 71" src="https://img.shields.io/badge/-Day 71: React Navbar-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day72_box_shadows/
+"><img alt="Day 72" src="https://img.shields.io/badge/-Day 72: Box Shadows-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
