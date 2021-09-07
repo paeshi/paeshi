@@ -147,6 +147,8 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 71" src="https://img.shields.io/badge/-Day 71: React Navbar-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day72_box_shadows/
 "><img alt="Day 72" src="https://img.shields.io/badge/-Day 72: Box Shadows-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day73_css_borders/
+"><img alt="Day 73" src="https://img.shields.io/badge/-Day 73: CSS Borders-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
