@@ -152,6 +152,13 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 <a href="https://paeshi.github.io/day74_text_shadows/
 "><img alt="Day 74" src="https://img.shields.io/badge/-Day 74: Texts Shadows-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 
+<a href="https://paeshi.github.io/day75_nodejs_user_roles/
+"><img alt="Day 75" src="https://img.shields.io/badge/-Day 75: Node User Roles-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://codesandbox.io/s/react-f27u3
+"><img alt="Day 76" src="https://img.shields.io/badge/-Day 76: React Layout-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day77_mousemove_eyes/
+"><img alt="Day 77" src="https://img.shields.io/badge/-Day 77: Mousemove-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
 ![Paeshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=paeshi&show_icons=true&theme=dark)
