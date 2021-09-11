@@ -151,7 +151,6 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 73" src="https://img.shields.io/badge/-Day 73: CSS Borders-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day74_text_shadows/
 "><img alt="Day 74" src="https://img.shields.io/badge/-Day 74: Texts Shadows-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
-
 <a href="https://paeshi.github.io/day75_nodejs_user_roles/
 "><img alt="Day 75" src="https://img.shields.io/badge/-Day 75: Node User Roles-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://codesandbox.io/s/react-f27u3
