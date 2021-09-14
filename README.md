@@ -157,6 +157,12 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 "><img alt="Day 76" src="https://img.shields.io/badge/-Day 76: React Layout-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day77_mousemove_eyes/
 "><img alt="Day 77" src="https://img.shields.io/badge/-Day 77: Mousemove-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://codesandbox.io/s/shy-monad-h2cc0?file=/src/App.js
+"><img alt="Day 78" src="https://img.shields.io/badge/-Day 78: React Custom Hooks-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://paeshi.github.io/day79_node_backend_jwt/
+"><img alt="Day 79" src="https://img.shields.io/badge/-Day 79: Node Backend JWT-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
+<a href="https://replit.com/@stevepae/day80
+"><img alt="Day 80" src="https://img.shields.io/badge/-Day 80: Synchronous vs Asynchronous-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
