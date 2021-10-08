@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Steve
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Paeshi
 
 ![github](https://user-images.githubusercontent.com/73855474/118028209-d21f4980-b330-11eb-86f8-c9cf7cd83989.png)
 
@@ -6,9 +6,7 @@
 
 I am a Software Engineer and media producer living in Virginia. Feel free to send me a message if you'd like to connect. I love collaborating with people, creating new apps, and teaching others about programming, audio production, and video editing.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stevepae/)
-
-## 100DaysOfCode - Started Jun 27, 2021
+## Code Snippets
 
 <a href="https://paeshi.github.io/day1-floating-particles/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01: Particles-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day2-mousetrails/"><img alt="Day 2" src="https://img.shields.io/badge/-Day 02: Mousetrails-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
