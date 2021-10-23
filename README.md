@@ -6,7 +6,7 @@
 
 I am a Software Engineer and media producer living in Virginia. Feel free to send me a message if you'd like to connect. I love collaborating with people, creating new apps, and teaching others about programming, audio production, and video editing.
 
-## Code Snippets
+<!-- ## Code Snippets
 
 <a href="https://paeshi.github.io/day1-floating-particles/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01: Particles-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://paeshi.github.io/day2-mousetrails/"><img alt="Day 2" src="https://img.shields.io/badge/-Day 02: Mousetrails-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
@@ -160,7 +160,7 @@ I am a Software Engineer and media producer living in Virginia. Feel free to sen
 <a href="###
 "><img alt="Day 79" src="https://img.shields.io/badge/-Day 79: Node Backend JWT-2d4175?style=for-the-badge&logo=day" height=30 width=150/>
 <a href="https://replit.com/@stevepae/day80
-"><img alt="Day 80" src="https://img.shields.io/badge/-Day 80: Synchronous vs Asynchronous-3b5bad?style=for-the-badge&logo=day" height=30 width=150/>
+"><img alt="Day 80" src="https://img.shields.io/badge/-Day 80: Synchronous vs Asynchronous-3b5bad?style=for-the-badge&logo=day" height=30 width=150/> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paeshi&layout=compact&theme=dark)
 
